@@ -1,4 +1,4 @@
-# Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
+# Ex. No. 3 - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
 ### DATE: 16.05.2024
 ## AIM: 
@@ -46,8 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![image](https://github.com/Akshayaamt/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/144870472/6a697a44-b5bb-43a1-a2ca-a7af57d59fbb)
-
+![image](https://github.com/DINESH18032004/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119477784/455c21b4-6963-4256-bc5d-54ba482c92b3)
 
 ### Name: AKSHAYAA M T
 ### Register Number: 212223110002
